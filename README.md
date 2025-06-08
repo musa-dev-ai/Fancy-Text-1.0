@@ -2,6 +2,7 @@
 
 Transform Your Text with a Touch of Magic!
 Welcome to Fancy Text Weaver, a simple and sleek web application designed to convert your plain text into a variety of dazzling fancy styles. Whether you're looking to add flair to your social media posts, design unique usernames, or just have fun with typography, this tool has you covered!
+
 🚀 Features
 
 Fancy Text Weaver is built with simplicity and usability in mind, leveraging external APIs to deliver its creative transformations:
@@ -12,6 +13,7 @@ Fancy Text Weaver is built with simplicity and usability in mind, leveraging ext
  * Copy All: For convenience, a "Copy All to Clipboard" button is available to grab every generated style at once.
  * Responsive Design: Enjoy a seamless experience on any device, from desktop to mobile.
  * 
+
 🛠️ How to Use
 Getting started with Fancy Text Weaver is incredibly simple!
 
